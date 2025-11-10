@@ -46,7 +46,7 @@ Striving to become a better Muslim and a skilled developer with sincerity, excel
 
 #### Core Development
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,nginx,mysql,dotnet,nodejs,js,react,vue,nuxt,pinia,tailwind,css&perline=5" />
+  <img src="https://skillicons.dev/icons?i=linux,nginx,mysql,nodejs,js,react,vue,nuxt,pinia,tailwind,css&perline=5" />
 </p>
 
 #### Tools & Platforms
