@@ -10,7 +10,7 @@ Striving to become a better Muslim and a skilled developer with sincerity, excel
 - **OS:** Linux (Ubuntu/Kali/Debin)
 - **Linux Terminal:** Familiar with Linux basic commands and terminal usage
 - **Version Control:** Git & GitHub
-- **Backend** PHP, Laravel
+- **Backend** Node, Laravel
 - **Database** Mysql
 - **Frontend:** JavaScript, React, Vue, Nuxt
 - **Styling:** CSS, Tailwind CSS  
