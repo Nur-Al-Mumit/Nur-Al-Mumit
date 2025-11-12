@@ -23,17 +23,16 @@ Striving to become a better Muslim and a skilled developer with sincerity, excel
 
 - **Nginx (Advanced Concepts):** reverse proxy, load balancing, caching & performance optimization  
 - **C# & ASP.NET Core:** building modern backend applications  
-- **DevOps Fundamentals:** Docker, improving deployment strategies, automation & reliability mindset  
+- **DevOps Fundamentals:** Docker, CI/CD and Server related stufs
 
 ---
 
 ### Purpose & Goals
 
-- Complete understanding of the **Full-Stack Lifecycle**  
-- Build solutions with clean code, purpose & technical excellence  
-- Work in environments that value craftsmanship, learning & integrity
-- Become skillful enough to build beneficial tech for the Ummah
-- Prefer to work in an environment aligned with Islamic values  
+- Gain a complete understanding of the **Full-Stack Lifecycle**
+- Strengthen problem-solving and practical coding skills through real-world projects
+- Build useful and impactful technology that benefits the Ummah
+- Work in an environment that follows Islamic values and ethics
 
 ---
 
