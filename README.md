@@ -15,7 +15,7 @@ Striving to become a better Muslim and a skilled developer with sincerity, excel
 - **Backend:** Node, Laravel
 - **Frontend:** JavaScript, React, Vue, Nuxt, Pinia
 - **Styling:** CSS, Tailwind CSS  
-- **IDE/Editor:** Visual Studio Code, VIM
+- **IDE/Editor:**Rider, Visual Studio Code, VIM
 
 ---
 
